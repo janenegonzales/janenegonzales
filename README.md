@@ -1,6 +1,6 @@
 # Hi, I'm Janene 👋
 
-I'm currently transitioning from **Education into IT**, with a growing interest in **Cloud Computing and Software Development**.
+I'm currently transitioning from **Education into IT**, with a growing interest in **Cybersecurity**.
 
 ### 💻 Currently Learning
 
@@ -19,7 +19,7 @@ I'm also completing courses through **freeCodeCamp** and **IBM SkillsBuild**.
 
 ### ☁️ Career Goal
 
-My long-term goal is to become a **Cloud Engineer**, with a strong foundation in programming, networking, Linux, and cloud technologies.
+My long-term goal is to enter the field of **Penetration Tester** with a strong foundation in operating systems, networking, web applications and architecture!
 
 ### 🚀 Projects
 
