@@ -6,11 +6,12 @@ I'm currently transitioning from **Education into IT**, with a growing interest 
 
 * 🐍 Python
 * 🌐 HTML & CSS
-* ⚛️ JavaScript & React
+* ⚛️ JavaScript & React (Learning)
 * ☁️ Cloud Computing
 * 🖥️ IT Fundamentals & Networking
 * 🔧 Git & GitHub
-
+* 🛡️ Cybersecurity
+  
 ### 🎓 Education
 
 I'm currently studying **Level 5 IT**, while building my programming and technical skills through hands-on projects and online learning.
